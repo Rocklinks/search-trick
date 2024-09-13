@@ -1,0 +1,2 @@
+# search-trick
+sample
